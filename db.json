@@ -299,21 +299,6 @@
       "branch": "Blockchain",
       "industry": "Blockchain",
       "applicant": "Solicitante 1"
-    },
-    {
-      "id": 6,
-      "status":-1,
-      "event_name": "Nombre del Evento",
-      "event_type": "Tipo de Evento",
-      "time_start": "2020-06-08T23:15:52.215Z",
-      "time_end": "2020-06-08T23:45:52.215Z",
-      "attendees_num": "5",
-      "attendees_type": "Varios tipos de asisitentes",
-      "room": "Transform",
-      "oportunity_num": "AAA-234-5432",
-      "branch": "Blockchain",
-      "industry": "Blockchain",
-      "applicant": "Solicitante 1"
     }
   ],
   "reservations":[
